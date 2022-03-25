@@ -16,29 +16,29 @@ Open http://localhost:8080/etb/
 
 
 API: Producto: /api/producto
-    METHOD: X-PING:   PING Service
-    METHOD: X-CREATE: CReate Object
-    METHOD: X-UPDATE: Update Object  + id
-    METHOD: X-REMOVE: Remove Object  + id
-    METHOD: X-FITER:  Filter Object  + id
+-    METHOD: X-PING:   PING Service
+-    METHOD: X-CREATE: CReate Object
+-    METHOD: X-UPDATE: Update Object  + id
+-    METHOD: X-REMOVE: Remove Object  + id
+-    METHOD: X-FITER:  Filter Object  + id
 
 
 
 API: Producto: /api/pedido
-    METHOD: X-PING:   PING Service
-    METHOD: X-CREATE: CReate Object
-    METHOD: X-UPDATE: Update Object  + id
-    METHOD: X-REMOVE: Remove Object  + id
-    METHOD: X-FITER:  Filter Object  + id
+-    METHOD: X-PING:   PING Service
+-    METHOD: X-CREATE: CReate Object
+-    METHOD: X-UPDATE: Update Object  + id
+-    METHOD: X-REMOVE: Remove Object  + id
+-    METHOD: X-FITER:  Filter Object  + id
 
 
 
 API: Producto: /api/pedido/detalle
-    METHOD: X-PING:   PING Service
-    METHOD: X-CREATE: CReate Object
-    METHOD: X-UPDATE: Update Object  + id
-    METHOD: X-REMOVE: Remove Object  + id
-    METHOD: X-FITER:  Filter Object  + id
+-    METHOD: X-PING:   PING Service
+-    METHOD: X-CREATE: CReate Object
+-    METHOD: X-UPDATE: Update Object  + id
+-    METHOD: X-REMOVE: Remove Object  + id
+-    METHOD: X-FITER:  Filter Object  + id
 
 
 # Project
