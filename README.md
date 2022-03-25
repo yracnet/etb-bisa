@@ -2,12 +2,12 @@
 
 # Install
 
-mvn install
+- mvn install
 
 # Execute
 
-cd etb-rest
-mvn -Pwildfly:dev wildfly-jar:dev-watch
+- cd etb-rest
+- mvn -Pwildfly:dev wildfly-jar:dev-watch
 
 # Test
 
