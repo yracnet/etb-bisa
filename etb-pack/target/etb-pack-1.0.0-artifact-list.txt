@@ -1,0 +1,5 @@
+8e2f8cfb4376eb2d27f83d756723eb3e8b0a03c375b5f9e652de01115c4ee320,/org/jboss/jboss-parent/37/jboss-parent-37.pom
+4e2e8e275888231f2cfaad0f4a6078a54dcc7c0e403d2e6e407d8d6b2562e1f8,/org/wildfly/wildfly-ee-feature-pack-parent/23.0.2.Final/wildfly-ee-feature-pack-parent-23.0.2.Final.pom
+9bd822fb7fa18c42c0c8887533a7293f7298864cd588568352ac383eab2eb4a6,/org/wildfly/wildfly-ee-galleon-pack/23.0.2.Final/wildfly-ee-galleon-pack-23.0.2.Final.pom
+7eeceee7048e1bcfccadeeee3bd0221c77fa544ef42048fb74bdc6d82d1d4938,/org/wildfly/wildfly-ee-galleon-pack/23.0.2.Final/wildfly-ee-galleon-pack-23.0.2.Final.zip
+54746fbe5de0e3bfbc34d147d1c676d74b41fe0592cc3095b1782f018f0f0867,/org/wildfly/wildfly-parent/23.0.2.Final/wildfly-parent-23.0.2.Final.pom

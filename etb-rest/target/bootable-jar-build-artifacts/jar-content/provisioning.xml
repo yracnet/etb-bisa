@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+
+<installation xmlns="urn:jboss:galleon:provisioning:3.0">
+    <feature-pack location="wildfly@maven(org.jboss.universe:community-universe)#23.0.2.Final">
+        <default-configs inherit="false"/>
+        <packages inherit="false"/>
+    </feature-pack>
+    <feature-pack location="com.github.yracnet.etb:etb-pack:1.0.0">
+        <default-configs inherit="false"/>
+        <packages inherit="false"/>
+    </feature-pack>
+    <config model="standalone" name="standalone.xml">
+        <layers>
+            <include name="microprofile-config"/>
+            <include name="jaxrs-server"/>
+            <include name="etb-server"/>
+            <include name="management"/>
+            <exclude name="deployment-scanner"/>
+            <exclude name="core-management"/>
+            <exclude name="jmx-remoting"/>
+            <exclude name="request-controller"/>
+        </layers>
+    </config>
+    <options>
+        <option name="optional-packages" value="passive+"/>
+    </options>
+</installation>

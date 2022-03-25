@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.21.0" timestamp="2022-03-24T21:51:48.337">
+<file name="/store/work/dev/bisa-01/etb/etb-rest/src/main/java/com/github/yracnet/etb/controller/EtbPedidoDetalleController.java">
+<violation beginline="24" endline="24" begincolumn="26" endcolumn="27" rule="UnusedPrivateField" ruleset="Best Practices" package="com.github.yracnet.etb.controller" class="EtbPedidoDetalleController" variable="em" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'em'.
+</violation>
+</file>
+<file name="/store/work/dev/bisa-01/etb/etb-rest/src/main/java/com/github/yracnet/etb/controller/EtbProductoController.java">
+<violation beginline="22" endline="22" begincolumn="26" endcolumn="27" rule="UnusedPrivateField" ruleset="Best Practices" package="com.github.yracnet.etb.controller" class="EtbProductoController" variable="em" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'em'.
+</violation>
+</file>
+<file name="/store/work/dev/bisa-01/etb/etb-rest/src/main/java/com/github/yracnet/etb/entities/EtbPedidoDetalle.java">
+<violation beginline="15" endline="15" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Best Practices" package="com.github.yracnet.etb.entities" class="EtbPedidoDetalle" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'javax.persistence'
+</violation>
+</file>
+<file name="/store/work/dev/bisa-01/etb/etb-rest/src/main/java/com/github/yracnet/etb/service/ProductoService.java">
+<violation beginline="46" endline="46" begincolumn="18" endcolumn="23" rule="UnusedPrivateField" ruleset="Best Practices" package="com.github.yracnet.etb.service" class="ProductoService" variable="parser" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'parser'.
+</violation>
+</file>
+</pmd>

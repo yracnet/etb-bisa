@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+    <action>
+        <actionName>CUSTOM-wildfly-jar:dev-watch</actionName>
+        <displayName>wildfly-jar:dev-watch</displayName>
+        <goals>
+            <goal>wildfly-jar:dev-watch</goal>
+        </goals>
+        <activatedProfiles>
+            <activatedProfile>wildfly:dev</activatedProfile>
+        </activatedProfiles>
+    </action>
+    <action>
+        <actionName>CUSTOM-wildfly-jar:package</actionName>
+        <displayName>wildfly-jar:package</displayName>
+        <goals>
+            <goal>wildfly-jar:package</goal>
+        </goals>
+        <activatedProfiles>
+            <activatedProfile>wildfly:dev</activatedProfile>
+        </activatedProfiles>
+    </action>
+</actions>
